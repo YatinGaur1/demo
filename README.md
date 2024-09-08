@@ -1,4 +1,4 @@
 # demo
 this is my first repositary
 <br>
-Autho-Yatin Gaur
+Autho-Yatin Gaur(apnacollege)
